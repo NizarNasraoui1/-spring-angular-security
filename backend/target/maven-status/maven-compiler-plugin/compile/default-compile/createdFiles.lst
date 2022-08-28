@@ -1,0 +1,12 @@
+io/getarrays/userservice/UserServiceApplication.class
+io/getarrays/userservice/api/UserResource.class
+io/getarrays/userservice/service/UserService.class
+io/getarrays/userservice/repo/UserRepo.class
+io/getarrays/userservice/domain/User.class
+io/getarrays/userservice/filter/CustomAuthenticationFilter.class
+io/getarrays/userservice/service/UserServiceImpl.class
+io/getarrays/userservice/repo/RoleRepo.class
+io/getarrays/userservice/filter/CustomAuthorizationFilter.class
+io/getarrays/userservice/security/SecurityConfig.class
+io/getarrays/userservice/domain/Role.class
+io/getarrays/userservice/api/RoleToUserForm.class

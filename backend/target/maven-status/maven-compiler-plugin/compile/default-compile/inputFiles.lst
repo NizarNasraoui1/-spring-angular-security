@@ -1,0 +1,11 @@
+/home/nizar/Documents/spring boot/spring security/userservice-main/src/main/java/io/getarrays/userservice/service/UserServiceImpl.java
+/home/nizar/Documents/spring boot/spring security/userservice-main/src/main/java/io/getarrays/userservice/repo/RoleRepo.java
+/home/nizar/Documents/spring boot/spring security/userservice-main/src/main/java/io/getarrays/userservice/security/SecurityConfig.java
+/home/nizar/Documents/spring boot/spring security/userservice-main/src/main/java/io/getarrays/userservice/domain/User.java
+/home/nizar/Documents/spring boot/spring security/userservice-main/src/main/java/io/getarrays/userservice/domain/Role.java
+/home/nizar/Documents/spring boot/spring security/userservice-main/src/main/java/io/getarrays/userservice/UserServiceApplication.java
+/home/nizar/Documents/spring boot/spring security/userservice-main/src/main/java/io/getarrays/userservice/repo/UserRepo.java
+/home/nizar/Documents/spring boot/spring security/userservice-main/src/main/java/io/getarrays/userservice/filter/CustomAuthenticationFilter.java
+/home/nizar/Documents/spring boot/spring security/userservice-main/src/main/java/io/getarrays/userservice/service/UserService.java
+/home/nizar/Documents/spring boot/spring security/userservice-main/src/main/java/io/getarrays/userservice/filter/CustomAuthorizationFilter.java
+/home/nizar/Documents/spring boot/spring security/userservice-main/src/main/java/io/getarrays/userservice/api/UserResource.java
